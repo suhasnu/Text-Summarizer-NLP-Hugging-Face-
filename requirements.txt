@@ -18,4 +18,5 @@ uvicorn==0.40.0
 Jinja2==3.1.6
 python-box==7.3.2
 ensure==1.0.2
+box
 -e .
